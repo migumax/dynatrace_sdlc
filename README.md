@@ -7,4 +7,4 @@ Events generated:
 - GitHub Actions Workflow Runs
 - GitHub Actions Jobs
 
-This file is used for dev/featureX roll-outs...
+This file is used for dev/featureX roll-outs..
